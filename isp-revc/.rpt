@@ -1,0 +1,62 @@
+** Drc report for /Users/swilson/dev/mechkeys/isp/isp.kicad_pcb **
+** Created on 2016-12-21 14:38:47 **
+
+** Found 0 DRC errors **
+
+** Found 18 unconnected pads **
+ErrType(2): Unconnected pads
+    @ (3.6500 in,2.1969 in): Pad 1 on F.Cu, Non-copper of R1 net +5V
+    @ (3.8063 in,1.6250 in): Pad 8 on F.Cu, Non-copper of IC1
+ErrType(2): Unconnected pads
+    @ (3.3500 in,1.8856 in): Pad 2 on F.Cu, Non-copper of D1 net GND
+    @ (3.4000 in,1.6984 in): Pad 2 on F.Cu, Non-copper of C1
+ErrType(2): Unconnected pads
+    @ (3.3500 in,2.1856 in): Pad 2 on F.Cu, Non-copper of D2 net GND
+    @ (3.1319 in,2.1752 in): Pad 6 on F.Cu, Non-copper of P1
+ErrType(2): Unconnected pads
+    @ (3.5937 in,1.7750 in): Pad 4 on F.Cu, Non-copper of IC1 net GND
+    @ (3.4000 in,1.6984 in): Pad 2 on F.Cu, Non-copper of C1
+ErrType(2): Unconnected pads
+    @ (4.1000 in,2.1000 in): Pad 6 on F.Cu, B.Cu, Internal, Non-copper of P2 net GND
+    @ (3.5937 in,1.7750 in): Pad 4 on F.Cu, Non-copper of IC1
+ErrType(2): Unconnected pads
+    @ (3.1358 in,2.0630 in): Pad 5 on F.Cu, Non-copper of P1 net GND
+    @ (3.1319 in,1.8248 in): Pad 6 on F.Cu, Non-copper of P1
+ErrType(2): Unconnected pads
+    @ (3.1319 in,1.8248 in): Pad 6 on F.Cu, Non-copper of P1 net GND
+    @ (3.3500 in,1.8856 in): Pad 2 on F.Cu, Non-copper of D1
+ErrType(2): Unconnected pads
+    @ (3.5000 in,2.0031 in): Pad 2 on F.Cu, Non-copper of R2 net D+
+    @ (3.3500 in,2.0144 in): Pad 1 on F.Cu, Non-copper of D1
+ErrType(2): Unconnected pads
+    @ (3.1358 in,2.0000 in): Pad 3 on F.Cu, Non-copper of P1 net D+
+    @ (3.3500 in,2.0144 in): Pad 1 on F.Cu, Non-copper of D1
+ErrType(2): Unconnected pads
+    @ (3.6500 in,2.3031 in): Pad 2 on F.Cu, Non-copper of R1 net D-
+    @ (3.5000 in,2.3031 in): Pad 2 on F.Cu, Non-copper of R3
+ErrType(2): Unconnected pads
+    @ (3.1358 in,1.9685 in): Pad 2 on F.Cu, Non-copper of P1 net D-
+    @ (3.3500 in,2.3144 in): Pad 1 on F.Cu, Non-copper of D2
+ErrType(2): Unconnected pads
+    @ (3.3500 in,2.3144 in): Pad 1 on F.Cu, Non-copper of D2 net D-
+    @ (3.5000 in,2.3031 in): Pad 2 on F.Cu, Non-copper of R3
+ErrType(2): Unconnected pads
+    @ (4.0000 in,2.1000 in): Pad 5 on F.Cu, B.Cu, Internal, Non-copper of P2 net RST
+    @ (3.5937 in,1.6250 in): Pad 1 on F.Cu, Non-copper of IC1
+ErrType(2): Unconnected pads
+    @ (3.5000 in,1.8969 in): Pad 1 on F.Cu, Non-copper of R2 net Net-(IC1-Pad2)
+    @ (3.5937 in,1.6750 in): Pad 2 on F.Cu, Non-copper of IC1
+ErrType(2): Unconnected pads
+    @ (3.5000 in,2.1969 in): Pad 1 on F.Cu, Non-copper of R3 net Net-(IC1-Pad3)
+    @ (3.5937 in,1.7250 in): Pad 3 on F.Cu, Non-copper of IC1
+ErrType(2): Unconnected pads
+    @ (3.8063 in,1.7750 in): Pad 5 on F.Cu, Non-copper of IC1 net MOSI
+    @ (4.1000 in,2.0000 in): Pad 4 on F.Cu, B.Cu, Internal, Non-copper of P2
+ErrType(2): Unconnected pads
+    @ (3.8063 in,1.7250 in): Pad 6 on F.Cu, Non-copper of IC1 net MISO
+    @ (4.0000 in,1.9000 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P2
+ErrType(2): Unconnected pads
+    @ (3.8063 in,1.6750 in): Pad 7 on F.Cu, Non-copper of IC1 net SCK
+    @ (4.0000 in,2.0000 in): Pad 3 on F.Cu, B.Cu, Internal, Non-copper of P2
+
+** End of Report **

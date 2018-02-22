@@ -1,0 +1,11 @@
+** Drc report for /Users/swilson/dev/mechkeys/isp/isp.kicad_pcb **
+** Created on 2016-12-21 14:49:15 **
+
+** Found 0 DRC errors **
+
+** Found 1 unconnected pads **
+ErrType(2): Unconnected pads
+    @ (3.1358 in,2.0630 in): Pad 5 on F.Cu, Non-copper of P1 net GND
+    @ (3.1319 in,1.8248 in): Pad 6 on F.Cu, Non-copper of P1
+
+** End of Report **
